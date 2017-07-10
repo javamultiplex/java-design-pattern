@@ -30,4 +30,10 @@
      Ex - Fan wall control
     * Strategy - Encapsulate an algorithm inside a class.
      Ex - Sorting based on different algorithms.
+    * Observer - A way of notifying a change to number of classes.
+     Ex - Newspaper
+    * Visitor - Define a new operation to a class without change.
+    Ex - Operation of a taxi company.
+    * Template method - Defer an exact steps of an algorithm to a sub class.
+    Ex - House plan.
    
