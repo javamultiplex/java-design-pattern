@@ -6,7 +6,7 @@
 
 
 1. Creational
- * Prototype - A fully initialized instance to be copied or cloned.
+   * Prototype - A fully initialized instance to be copied or cloned.
  Ex - Chess board.
  
  
