@@ -36,4 +36,10 @@
     Ex - Operation of a taxi company.
     * Template method - Defer an exact steps of an algorithm to a sub class.
     Ex - House plan.
+    * Command - Encapsulate a command request as a object.
+    Ex - Runnable interface, Waiter take order and pass it to cook.
+    * Memento - Capture and restore object's internal state.
+    Ex - Serialization, Undo/Redo.
+    * Mediator - Defines simplified communication between classes.
+    Ex - Air traffic controller.
    
