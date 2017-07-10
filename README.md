@@ -22,12 +22,12 @@
    * Flyweight - A fine grained instance used for efficient sharing.
      Ex - Public switched network, JDBC Connection pooling.
  3. Behavioural
-   * Chain of resposibility - A way of passing a request between chain of objects.
+    * Chain of resposibility - A way of passing a request between chain of objects.
      Ex - Exception handling in Java.
-   * Iterator - Sequentially access elements of a collection.
+    * Iterator - Sequentially access elements of a collection.
      Ex - Iterator class, next and prev button on Tv remote.
-   * State - Alter an object behaviour when its state changes.
+    * State - Alter an object behaviour when its state changes.
      Ex - Fan wall control
-   * Strategy - Encapsulate an algorithm inside a class.
+    * Strategy - Encapsulate an algorithm inside a class.
      Ex - Sorting based on different algorithms.
    
