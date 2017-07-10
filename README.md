@@ -10,4 +10,9 @@
      Ex - President of country, Database connection, Logging
    * Factory method - Creates a factory of object types.
      Ex - Shape factory that generates different shapes.
+2. Structural
+   * Proxy - An object representing another object.
+     Ex - Credit card, Debit card
+   * Decorator - Add responsibilities to the object dynamically.
+     Ex - Adding discount on order, Adding toppings on pizza, Java IO.
  
