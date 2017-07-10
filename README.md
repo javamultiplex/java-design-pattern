@@ -15,4 +15,9 @@
      Ex - Credit card, Debit card
    * Decorator - Add responsibilities to the object dynamically.
      Ex - Adding discount on order, Adding toppings on pizza, Java IO.
- 
+   * Facade - A single class that represent an entire subsystem.
+     Ex - Event manager, Online booking order.
+   * Adapter - Match interfaces of different class.
+     Ex - Power adapter.
+   * Flyweight - A fine grained instance used for efficient sharing.
+     Ex - Public switched network, JDBC Connection pooling.
